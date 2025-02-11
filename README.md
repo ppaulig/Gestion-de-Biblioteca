@@ -1,7 +1,7 @@
 # Sistema de Gestión de Biblioteca
 Proyecto final desarrollado para la asignatura Base de Datos I, en colaboración con un equipo de cuatro integrantes.  
 El sistema permite la gestión integral de una biblioteca, incluyendo el registro, modificación, consulta y eliminación de: usuarios, libros, préstamos y pagos.  
-Tecnologias utilizadas: **Python-MySQL-SQL**. 
+Para su implementación, diseñamos y administramos una base de datos **MySQL** y desarrollamos una aplicación de consola utilizando el lenguaje de programación **Python**.
    
 
 <br><br>
