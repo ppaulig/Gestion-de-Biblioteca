@@ -2,8 +2,11 @@
 Proyecto final desarrollado para la asignatura Base de Datos I, en colaboración con un equipo de cuatro integrantes.  
 El sistema permite la gestión integral de una biblioteca, incluyendo el registro, modificación, consulta y eliminación de: usuarios, libros, préstamos y pagos.  
 Para su implementación, diseñamos y administramos una base de datos **MySQL** y desarrollamos una aplicación de consola utilizando el lenguaje de programación **Python**.
-   
 
+
+### Modo de uso
+Descargar el repositorio y abrirlo en un editor de texto, por ejemplo Visual Studio Code. Una vez abierto crear una base de datos MySQL local e ingresarle el codigo SQL del archivo "codigoSQL.sql".
+Ahora si, ya podras ejecutar el archivo principal "menu.py" desde tu editor de preferencia. Al iniciarse el programa, te pedira algunos datos para poder conectarse a la base de datos. Si la coneccion fue exitosa ya podras comenzar a probar el programa.  
 <br><br>
 
 1. **Archivo codigoSQL.sql**  
